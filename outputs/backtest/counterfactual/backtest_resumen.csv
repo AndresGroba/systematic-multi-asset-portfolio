@@ -1,0 +1,4 @@
+Date,Portfolio Value,Rebalance,Trade Cost EUR,Selected ETFs,N ETFs,Weight XEON,Regime,Reason
+2026-03-12,9996486.61,True,3513.39,"IWDA.L, EWJ, IUSN.DE, EWZ, EWT, EWY, XLY, KBE, XLE, XLI, IYT, XLB, XBI, XLK, SOXX, LIT, GLD, SLV, COPX",19,0.0081,normal,"rebalance: COPX peso=0.0000 fuera de [0.0644, 0.1044]"
+2026-03-31,10179558.8,True,2787.25,"IUSN.DE, IEMA.L, EWT, EWY, XLY, XLC, XLF, KBE, XLE, XLI, IYT, XLV, XBI, XLP, SOXX, CIBR, VNQ, LIT, SLV, COPX",20,0.0,caution,"rebalance: CIBR peso=0.0000 fuera de [0.0615, 0.1015]"
+2026-04-30,11048982.96,True,3381.9,"IWDA.L, EWJ, IUSN.DE, EWZ, EWT, EWY, XLY, XLF, KBE, XLE, XOP, XLB, XBI, SOXX, VNQ, LIT, SLV, DBA",18,0.0142,normal,"rebalance: CIBR peso=0.0792 fuera de [0.0000, 0.0200]"

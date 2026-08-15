@@ -1,0 +1,4 @@
+Variante,CAGR,Sharpe,Max DD,Total Return,Costes (% capital),Rebalances
+Original (sin ML),13.13%,0.76,-32.64%,384.12%,6.34%,154
+ML clustering,13.82%,0.78,-33.93%,422.90%,7.48%,154
+XGB + clustering (final),13.83%,0.78,-34.06%,423.66%,7.65%,154

@@ -1,0 +1,5 @@
+serie,Sharpe_OOS,TotalReturn
+Params fijos (adoptados),0.758,1.8242
+Params re-optimizados,0.811,1.9862
+SP500,0.774,
+MSCI World,0.69,

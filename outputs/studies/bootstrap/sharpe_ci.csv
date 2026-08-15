@@ -1,0 +1,4 @@
+serie,Sharpe,IC95_low,IC95_high,p(Sharpe>0)
+Strategy,0.807,0.287,1.344,0.999
+SP500,0.844,0.362,1.371,1.0
+MSCI_World (URTH),0.715,0.249,1.218,0.998
