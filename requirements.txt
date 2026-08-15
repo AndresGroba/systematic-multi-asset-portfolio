@@ -1,0 +1,11 @@
+# Pipeline de estrategia (raíz). Probado con Python 3.13.
+# Versiones pineadas y verificadas end-to-end (import + backtest corto) en 2026-06.
+# scikit-learn y xgboost son obligatorias: main.py importa los módulos ML sin guarda.
+pandas==3.0.2
+numpy==2.4.4
+yfinance==1.3.0
+matplotlib==3.10.9
+seaborn==0.13.2
+openpyxl==3.1.5
+scikit-learn==1.8.0
+xgboost==3.2.0

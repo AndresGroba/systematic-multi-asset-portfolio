@@ -1,0 +1,13 @@
+# Dashboard Streamlit (paquete desacoplado, venv propio). Probado con Python 3.14.
+# Versiones pineadas (pip freeze del venv, 2026-06), alineadas con la raiz en las deps comunes.
+# No usa ML: sin scikit-learn ni xgboost (el dashboard solo lee resultados de results/).
+streamlit==1.57.0
+plotly==6.7.0
+pandas==3.0.2
+numpy==2.4.4
+yfinance==1.3.0
+openpyxl==3.1.5
+seaborn==0.13.2
+matplotlib==3.10.9
+scipy==1.17.1
+kaleido==1.3.0   # export PNG estatico para generate_memoria_figures.py
